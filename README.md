@@ -1,23 +1,39 @@
 # Digital Closet App 👗
- Live Demo: https://digital-closet-app-dqyv.vercel.app/
 
-Digital Closet App adalah aplikasi web yang membantu pengguna mengelola koleksi pakaian secara digital, mencari inspirasi outfit, dan menyimpan kombinasi outfit favorit dalam satu tempat.
+**Digital Closet App** is a web application that helps users organize their clothing collection digitally, create outfit combinations, and manage their wardrobe more efficiently. The application provides an intuitive interface for storing clothing items, exploring outfit ideas, and tracking wardrobe statistics.
+
+## Live Demo
+
+https://digital-closet-app-dqyv.vercel.app/
 
 ## Features
 
-- Upload dan kelola koleksi pakaian
-- Generate outfit secara otomatis
-- Simpan outfit favorit
-- Cari pakaian dengan fitur pencarian
-- Lihat statistik koleksi pakaian
-- Antarmuka responsif dan mudah digunakan
+* Manage and organize clothing collections digitally
+* Upload and categorize wardrobe items
+* Automatically generate outfit combinations
+* Save and manage favorite outfits
+* Search clothing items quickly and efficiently
+* View wardrobe statistics and insights
+* Responsive design for desktop and mobile devices
 
 ## Tech Stack
 
-- React.js
-- Vite
-- JavaScript
-- Tailwind CSS
+* React.js
+* Vite
+* JavaScript (ES6+)
+* Tailwind CSS
+
+## Screenshots
+
+### Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/66169ad7-74a9-438e-a5ca-2c7cb4f25d49)
+<img width="1919" height="884" alt="Screenshot 2026-06-02 155333" src="https://github.com/user-attachments/assets/41f9c1a6-2a3e-4158-8ef4-a0e7cc65f507" />
+
+### Outfit Management
+
+![Outfit Management](https://github.com/user-attachments/assets/314c5523-d643-4333-bf85-0260f7f5b905)
+<img width="1545" height="745" alt="Screenshot 2026-06-02 155348" src="https://github.com/user-attachments/assets/c625c370-0243-449a-a17b-26de9e84f7c8" />
 
 ## Project Structure
 
@@ -26,15 +42,22 @@ src/
 ├── components/
 ├── assets/
 ├── utils/
+├── pages/
 └── App.jsx
 ```
 
 ## Installation
 
-Clone repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/tasyahutapea/digital-closet-app.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd digital-closet-app
 ```
 
 Install dependencies:
@@ -43,27 +66,30 @@ Install dependencies:
 npm install
 ```
 
-Run development server:
+Run the development server:
 
 ```bash
 npm run dev
 ```
 
-## Screenshots
+Build for production:
 
-Tambahkan screenshot aplikasi pada folder `screenshots/`.
+```bash
+npm run build
+```
 
-## Future Improvements
+## Future Enhancements
 
-- User authentication
-- Cloud database integration
-- AI-based outfit recommendation
-- Weather-based outfit suggestions
+* User authentication and account management
+* Cloud database integration
+* AI-powered outfit recommendations
+* Weather-based outfit suggestions
+* Personalized style recommendations
+* Social sharing for outfit combinations
 
 ## Author
 
-Natasya Hutapea
+**Natasya Hutapea**
 
-- GitHub: https://github.com/tasyahutapea
-- LinkedIn: https://www.linkedin.com/in/natasya-hutapea-29377b306/<img width="1545" height="745" alt="Screenshot 2026-06-02 155348" src="https://github.com/user-attachments/assets/314c5523-d643-4333-bf85-0260f7f5b905" />
-<img width="1919" height="884" alt="Screenshot 2026-06-02 155333" src="https://github.com/user-attachments/assets/66169ad7-74a9-438e-a5ca-2c7cb4f25d49" />
+* GitHub: https://github.com/tasyahutapea
+* LinkedIn: https://www.linkedin.com/in/natasya-hutapea-29377b306/
