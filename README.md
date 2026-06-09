@@ -28,12 +28,10 @@ https://digital-closet-app-dqyv.vercel.app/
 ### Dashboard
 
 ![Dashboard](https://github.com/user-attachments/assets/66169ad7-74a9-438e-a5ca-2c7cb4f25d49)
-<img width="1919" height="884" alt="Screenshot 2026-06-02 155333" src="https://github.com/user-attachments/assets/41f9c1a6-2a3e-4158-8ef4-a0e7cc65f507" />
 
 ### Outfit Management
 
 ![Outfit Management](https://github.com/user-attachments/assets/314c5523-d643-4333-bf85-0260f7f5b905)
-<img width="1545" height="745" alt="Screenshot 2026-06-02 155348" src="https://github.com/user-attachments/assets/c625c370-0243-449a-a17b-26de9e84f7c8" />
 
 ## Project Structure
 
